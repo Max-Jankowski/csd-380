@@ -1,2 +1,5 @@
-# csd-380
-DevOps Class
+# CSD 380 Web Development with HTML and CSS
+## Contributors
+
+* Sue Sampson
+* Max Jankowski
